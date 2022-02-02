@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teunhbrkn
 - 👀 I’m interested in crypto, technology & philosophy 
-- 🌱 I’m currently learning design systems in figma
+- 🌱 I’m currently learning about design systems in figma for easy collaboration with developers
 - 💞️ I’m looking to collaborate on Decentralised Identities
 - 📫 How to reach me @teunhabraken on twitter.
 
